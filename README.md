@@ -98,14 +98,27 @@ Sunnah Pro enables you to read and listen to more than 500 different supplicatio
 
 </p>
 
-# Firebase auth + Transition animation practice
+# [GitHub Profiles](https://github.com/skovalysh/GitHubProfiles)
+<p align="left"> <a href="https://github.com/skovalysh/GitHubProfiles"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+GitHub Profiles is an MVC practice project.
+GitHub Profiles is an application where users can search for a GitHub account and view its followers, GitHub profile, and various info.
+The user can save his favorite GitHub accounts and have access to them through the Favorites tab.
 
-* Implemented Firebase Auth
-* Background gradient animation
-* Transition animation
+* Implemented programmatically without the use of storyboards.
+* No libraries used.
+* Support for light & dark mode. 
+* Model-View-Controller architecture.
+* Custom UIAlerts.
+* Use DiffableDataSource.
+* Implemented pagination on the search screen.
+* Image caching.
+* Use UserDefaults for saving favorite users.
+* REST API.
+
 
 <p align="center">
-<img src="https://github.com/ammarali16/Swift/blob/main/images/Apple%20iPhone%2011%20Pro%20Max%20Presentation%20(2).png" width="930" title="PUMBOnline">
+<img src="https://github.com/ammarali16/Swift/blob/main/images/Apple%20iPhone%2011%20Pro%20Max%20Presentation%20(38).png" title="PUMBOnline">
 
 </p>
 
@@ -124,5 +137,5 @@ Sunnah Pro enables you to read and listen to more than 500 different supplicatio
 
 # Contact Info:
 
-- Email: kovalyshyn.alex@gmail.com
+- Email: ammar.aly.m@gmail.com
 - LinkedIn: [skovalyshyn](https://www.linkedin.com/in/skovalyshyn/)
