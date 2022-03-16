@@ -8,8 +8,8 @@ Swift Portfolio
 <p align="left"> <a href="https://apps.apple.com/ua/app/пумб-online/id1373626840" download><img src="https://user-images.githubusercontent.com/33416429/92803227-11456700-f36c-11ea-9d0a-f51c0e848163.png" width="150" ></a>
 </p>
 
-* PUMB Online - A native iOS online banking app which helps people to manage their finance
-* PUMB Online has more than 1 000 000 users, #5 finance app in Ukrainian AppStore, rating 4.8. Crash free users - 99.89 %
+* Game Vault is a fun and challenging multiple choice quiz game where you can test your knowledge with countless interesting quiz questions from 6 varied categories built using Swift and UIKit.
+
 
 <p align="center">
 <img src="https://github.com/ammarali16/Swift/blob/main/images/Apple%20iPhone%2011%20Pro%20Max%20Presentation%20(14).png" width="930" title="PUMBOnline">
@@ -17,7 +17,8 @@ Swift Portfolio
 </p>
 
 # FOODIVERY
-ZNO Test is my pet-project that im working on right now. It is an application for Ukrainian school students that allow practicing for the ZNO test (analog of SAT (Standardized Aptitude Tests) or GRE (Graduate Record Examination) in the USA).
+Foodivery is a food delivery and takeout app for restaurants. Order food with a quick and easy online ordering service app custom made for restaurants.
+
 
 * MVP (Model-View-Presenter) architecture
 * Realm database
@@ -32,7 +33,8 @@ ZNO Test is my pet-project that im working on right now. It is an application fo
 # [Rawdah](https://apps.apple.com/us/app/id1531009911) 
 <p align="left"> <a href="https://apps.apple.com/us/app/id1531009911" download><img src="https://user-images.githubusercontent.com/33416429/92803227-11456700-f36c-11ea-9d0a-f51c0e848163.png" width="150" ></a>
 </p>
-Straight Ur Back is an application that reminds you to keep your back straight. You can choose a time interval and how often you want to receive notifications. 
+Rawdah is ‘One Centralized NGO Platform’ product that provides a revolutionary all in one app to run an NGO tasks with complete administrative control. Developed and designed the app in Swift following MVVM architecture and a feature based modular structure. Implemented several new features on the iOS version of the app working with a team.  
+
 
 * MVP (Model-View-Presenter) architecture
 * Firebase Analytics
@@ -58,9 +60,8 @@ Take-home project for one of the companies that I applied for a job.
 # [Inspirational Quotes](https://github.com/skovalysh/GitHubProfiles)
 <p align="left"> <a href="https://github.com/skovalysh/GitHubProfiles"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
-GitHub Profiles is an MVC practice project.
-GitHub Profiles is an application where users can search for a GitHub account and view its followers, GitHub profile, and various info.
-The user can save his favorite GitHub accounts and have access to them through the Favorites tab.
+Inspirational Quotes app can make your day brighter, craft a smile on your face, or even lift you up a little. These inspiring quotes will help you to find the motivation you need every morning. You can also favorite and share the quotes written in Swift.
+
 
 * Implemented programmatically without the use of storyboards.
 * No libraries used.
@@ -81,9 +82,8 @@ The user can save his favorite GitHub accounts and have access to them through t
 # [Sunnah Pro](https://github.com/skovalysh/SkovTwitter)
 <p align="left"> <a href="https://github.com/skovalysh/SkovTwitter"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
-Twitter clone is an MVVM (no RxSwift) practice project.
-Twitter clone is a fully functional clone of the Twitter application. Users can sign up / sign in. Post a tweet and add a comment. Follow and unfollow users. Receive notifications about new mentions and tweets in the "Notification tab".
-Run with Firebase backend.
+Sunnah Pro enables you to read and listen to more than 500 different supplications everyday. It also features prayer times, Hijri date, qibla and custom reminders to give you the right supplication at the right time.
+
 
 * Implemented Firebase Auth
 * Communicate with Firebase database (read\write)
