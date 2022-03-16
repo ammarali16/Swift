@@ -4,7 +4,7 @@ Swift Portfolio
 
 <a href="https://pdfhost.io/v/.J68t4WH._Microsoft_Word_CV_Alex_Kovalyshyndocx.pdf" download><img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:kovalyshyn.alex@gmail.com"><img src="https://img.shields.io/badge/Email-Alex-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/skovalyshyn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Alex%20Kovalyshyn-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
-# [PUMB Online](https://apps.apple.com/ua/app/пумб-online/id1373626840) 
+# [PUMB Online](https://github.com/ammarali16/Swift/blob/main/Images/207274400_993898588104956_4981796106666714474_n.jpg) 
 <p align="left"> <a href="https://apps.apple.com/ua/app/пумб-online/id1373626840" download><img src="https://user-images.githubusercontent.com/33416429/92803227-11456700-f36c-11ea-9d0a-f51c0e848163.png" width="150" ></a>
 </p>
 
