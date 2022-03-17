@@ -122,6 +122,57 @@ The user can save his favorite GitHub accounts and have access to them through t
 
 </p>
 
+
+# [GitHub Profiles](https://github.com/skovalysh/GitHubProfiles)
+<p align="left"> <a href="https://github.com/skovalysh/GitHubProfiles"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+GitHub Profiles is an MVC practice project.
+GitHub Profiles is an application where users can search for a GitHub account and view its followers, GitHub profile, and various info.
+The user can save his favorite GitHub accounts and have access to them through the Favorites tab.
+
+* Implemented programmatically without the use of storyboards.
+* No libraries used.
+* Support for light & dark mode. 
+* Model-View-Controller architecture.
+* Custom UIAlerts.
+* Use DiffableDataSource.
+* Implemented pagination on the search screen.
+* Image caching.
+* Use UserDefaults for saving favorite users.
+* REST API.
+
+
+<p align="center">
+<img src="https://github.com/ammarali16/Swift/blob/main/images/Apple%20iPhone%2011%20Pro%20Max%20Presentation%20(38).png" title="PUMBOnline">
+
+</p>
+
+
+
+# [GitHub Profiles](https://github.com/skovalysh/GitHubProfiles)
+<p align="left"> <a href="https://github.com/skovalysh/GitHubProfiles"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+GitHub Profiles is an MVC practice project.
+GitHub Profiles is an application where users can search for a GitHub account and view its followers, GitHub profile, and various info.
+The user can save his favorite GitHub accounts and have access to them through the Favorites tab.
+
+* Implemented programmatically without the use of storyboards.
+* No libraries used.
+* Support for light & dark mode. 
+* Model-View-Controller architecture.
+* Custom UIAlerts.
+* Use DiffableDataSource.
+* Implemented pagination on the search screen.
+* Image caching.
+* Use UserDefaults for saving favorite users.
+* REST API.
+
+
+<p align="center">
+<img src="https://github.com/ammarali16/Swift/blob/main/images/Apple%20iPhone%2011%20Pro%20Max%20Presentation%20(38).png" title="PUMBOnline">
+
+</p>
+
 # [ARKit + Face Tracking practice](https://github.com/skovalysh/FaceMoji)
 <p align="left"> <a href="https://github.com/skovalysh/FaceMoji"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
