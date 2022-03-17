@@ -160,16 +160,6 @@ A simple appetizer app that lets you add an appetizer item in to the cart built 
 
 </p>
 
-# [ARKit + Face Tracking practice](https://github.com/skovalysh/FaceMoji)
-<p align="left"> <a href="https://github.com/skovalysh/FaceMoji"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
-</p>
-
-* ARKit Face Tracking feature
-
-<p align="center">
-<img src="https://github.com/ammarali16/Swift/blob/main/images/Apple%20iPhone%2011%20Pro%20Max%20Presentation%20(2).png" width="930" title="PUMBOnline">
-
-</p>
 
 ## Thanks for stopping by!
 
