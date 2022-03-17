@@ -123,12 +123,35 @@ The user can save his favorite GitHub accounts and have access to them through t
 </p>
 
 
-# [GitHub Profiles](https://github.com/skovalysh/GitHubProfiles)
+# [Podcast](https://github.com/skovalysh/GitHubProfiles)
 <p align="left"> <a href="https://github.com/skovalysh/GitHubProfiles"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
-GitHub Profiles is an MVC practice project.
-GitHub Profiles is an application where users can search for a GitHub account and view its followers, GitHub profile, and various info.
-The user can save his favorite GitHub accounts and have access to them through the Favorites tab.
+Podcast app is fully functional in terms of searching for available Podcasts on iTunes, bookmarking your favorite stations, and full support for audio playback. Furthermore, an Audio app wouldn't be complete without offline playback capabilities; which turns out is an extremely fun feature to build out.
+
+
+
+* Alamofire Integration to greatly simplify network requests architecture
+* AVKit Audio Player libraries for audio playback
+* Offline Playback of podcasts enabled through download feature
+* Control playback when App is in background
+* Draggable Floating Player component accessible across all screens
+* Search for Podcasts through iTunes API
+* Parsing JSON asynchronously
+* Learn to use XML parsing Pods through Cocoapods integration
+* User Favorites persistence with UserDefaults
+
+
+<p align="center">
+<img src="https://github.com/ammarali16/Swift/blob/main/images/Apple%20iPhone%2011%20Pro%20Max%20Presentation%20(39).png" title="PUMBOnline">
+
+</p>
+
+
+
+# [Appetizer](https://github.com/skovalysh/GitHubProfiles)
+<p align="left"> <a href="https://github.com/skovalysh/GitHubProfiles"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+A simple appetizer app that lets you add an appetizer item in to the cart built with Swift UI. The main focus of the app was to learn how to pass data between different screens using Swift UI.
 
 * Implemented programmatically without the use of storyboards.
 * No libraries used.
@@ -143,33 +166,7 @@ The user can save his favorite GitHub accounts and have access to them through t
 
 
 <p align="center">
-<img src="https://github.com/ammarali16/Swift/blob/main/images/Apple%20iPhone%2011%20Pro%20Max%20Presentation%20(38).png" title="PUMBOnline">
-
-</p>
-
-
-
-# [GitHub Profiles](https://github.com/skovalysh/GitHubProfiles)
-<p align="left"> <a href="https://github.com/skovalysh/GitHubProfiles"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
-</p>
-GitHub Profiles is an MVC practice project.
-GitHub Profiles is an application where users can search for a GitHub account and view its followers, GitHub profile, and various info.
-The user can save his favorite GitHub accounts and have access to them through the Favorites tab.
-
-* Implemented programmatically without the use of storyboards.
-* No libraries used.
-* Support for light & dark mode. 
-* Model-View-Controller architecture.
-* Custom UIAlerts.
-* Use DiffableDataSource.
-* Implemented pagination on the search screen.
-* Image caching.
-* Use UserDefaults for saving favorite users.
-* REST API.
-
-
-<p align="center">
-<img src="https://github.com/ammarali16/Swift/blob/main/images/Apple%20iPhone%2011%20Pro%20Max%20Presentation%20(38).png" title="PUMBOnline">
+<img src="https://github.com/ammarali16/Swift/blob/main/images/Apple%20iPhone%2011%20Pro%20Max%20Presentation%20(40).png" title="PUMBOnline">
 
 </p>
 
