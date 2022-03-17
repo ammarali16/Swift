@@ -85,13 +85,6 @@ Inspirational Quotes app can make your day brighter, craft a smile on your face,
 Sunnah Pro enables you to read and listen to more than 500 different supplications everyday. It also features prayer times, Hijri date, qibla and custom reminders to give you the right supplication at the right time.
 
 
-* Implemented Firebase Auth
-* Communicate with Firebase database (read\write)
-* Monitor events in a database
-* Upload Images to Firebase storage
-* Fully programmatically UI (no Interface Builder)
-* MVVM architecture
-* Dynamically sized collection view cells
 
 <p align="center">
 <img src="https://github.com/ammarali16/Swift/blob/main/images/Apple%20iPhone%2011%20Pro%20Max%20Presentation%20(34).png" width="930" title="PUMBOnline">
