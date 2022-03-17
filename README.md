@@ -153,16 +153,6 @@ Podcast app is fully functional in terms of searching for available Podcasts on 
 </p>
 A simple appetizer app that lets you add an appetizer item in to the cart built with Swift UI. The main focus of the app was to learn how to pass data between different screens using Swift UI.
 
-* Implemented programmatically without the use of storyboards.
-* No libraries used.
-* Support for light & dark mode. 
-* Model-View-Controller architecture.
-* Custom UIAlerts.
-* Use DiffableDataSource.
-* Implemented pagination on the search screen.
-* Image caching.
-* Use UserDefaults for saving favorite users.
-* REST API.
 
 
 <p align="center">
