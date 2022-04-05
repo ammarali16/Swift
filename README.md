@@ -31,7 +31,7 @@ Foodivery is a food delivery and takeout app for restaurants. Order food with a 
 </p>
 
 # [Rawdah](https://apps.apple.com/us/app/id1531009911) 
-<p align="left"> <a href="https://apps.apple.com/us/app/id1531009911" download><img src="https://user-images.githubusercontent.com/33416429/92803227-11456700-f36c-11ea-9d0a-f51c0e848163.png" width="150" ></a>
+<p align="left"> <a href="https://apps.apple.com/us/app/woodlands-islamic-center/id1394474601" download><img src="https://user-images.githubusercontent.com/33416429/92803227-11456700-f36c-11ea-9d0a-f51c0e848163.png" width="150" ></a>
 </p>
 Rawdah is ‘One Centralized NGO Platform’ product that provides a revolutionary all in one app to run an NGO tasks with complete administrative control. Developed and designed the app in Swift following MVVM architecture and a feature based modular structure. Implemented several new features on the iOS version of the app working with a team.  
 
