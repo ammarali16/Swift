@@ -57,8 +57,8 @@ Take-home project for one of the companies that I applied for a job.
 
 </p>
 
-# [Inspirational Quotes](https://github.com/skovalysh/GitHubProfiles)
-<p align="left"> <a href="https://github.com/skovalysh/GitHubProfiles"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+# [Inspirational Quotes](https://github.com/ammarali16/InspirationalQuotes)
+<p align="left"> <a href="https://github.com/ammarali16/InspirationalQuotes"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 Inspirational Quotes app can make your day brighter, craft a smile on your face, or even lift you up a little. These inspiring quotes will help you to find the motivation you need every morning. You can also favorite and share the quotes written in Swift.
 
@@ -79,8 +79,8 @@ Inspirational Quotes app can make your day brighter, craft a smile on your face,
 
 </p>
 
-# [Sunnah Pro](https://github.com/skovalysh/SkovTwitter)
-<p align="left"> <a href="https://github.com/skovalysh/SkovTwitter"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+# [Sunnah Pro](https://apps.apple.com/us/app/sunnah-pro/id1240213108)
+<p align="left"> <a href="https://apps.apple.com/us/app/sunnah-pro/id1240213108"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 Sunnah Pro enables you to read and listen to more than 500 different supplications everyday. It also features prayer times, Hijri date, qibla and custom reminders to give you the right supplication at the right time.
 
@@ -91,8 +91,8 @@ Sunnah Pro enables you to read and listen to more than 500 different supplicatio
 
 </p>
 
-# [GitHub Profiles](https://github.com/skovalysh/GitHubProfiles)
-<p align="left"> <a href="https://github.com/skovalysh/GitHubProfiles"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+# [GitHub Profiles](https://github.com/ammarali16/GitHub-Followers)
+<p align="left"> <a href="https://github.com/ammarali16/GitHub-Followers"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 GitHub Profiles is an MVC practice project.
 GitHub Profiles is an application where users can search for a GitHub account and view its followers, GitHub profile, and various info.
@@ -116,8 +116,8 @@ The user can save his favorite GitHub accounts and have access to them through t
 </p>
 
 
-# [Podcast](https://github.com/skovalysh/GitHubProfiles)
-<p align="left"> <a href="https://github.com/skovalysh/GitHubProfiles"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+# [Podcast](https://github.com/ammarali16/Podcast-App-)
+<p align="left"> <a href="https://github.com/ammarali16/Podcast-App-"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 Podcast app is fully functional in terms of searching for available Podcasts on iTunes, bookmarking your favorite stations, and full support for audio playback. Furthermore, an Audio app wouldn't be complete without offline playback capabilities; which turns out is an extremely fun feature to build out.
 
@@ -159,4 +159,4 @@ A simple appetizer app that lets you add an appetizer item in to the cart built 
 # Contact Info:
 
 - Email: ammar.aly.m@gmail.com
-- LinkedIn: [skovalyshyn](https://www.linkedin.com/in/skovalyshyn/)
+- LinkedIn: [ammarali](https://www.linkedin.com/in/ammar-ali13/)
