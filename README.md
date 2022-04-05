@@ -80,7 +80,7 @@ Inspirational Quotes app can make your day brighter, craft a smile on your face,
 </p>
 
 # [Sunnah Pro](https://apps.apple.com/us/app/sunnah-pro/id1240213108)
-<p align="left"> <a href="https://apps.apple.com/us/app/sunnah-pro/id1240213108"> <img src="https://user-images.githubusercontent.com/33416429/92803227-11456700-f36c-11ea-9d0a-f51c0e848163.png" ></a>
+<p align="left"> <a href="https://apps.apple.com/us/app/sunnah-pro/id1240213108" download><img src="https://user-images.githubusercontent.com/33416429/92803227-11456700-f36c-11ea-9d0a-f51c0e848163.png" width="150" ></a>
 </p>
 Sunnah Pro enables you to read and listen to more than 500 different supplications everyday. It also features prayer times, Hijri date, qibla and custom reminders to give you the right supplication at the right time.
 
