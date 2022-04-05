@@ -18,7 +18,7 @@ Swift Portfolio
 
 
 # [FOODIVERY](https://github.com/ammarali16/Foodivery) 
-<p align="left"> <a href="https://github.com/skovalysh/take-home-project"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+<p align="left"> <a href="https://github.com/ammarali16/Foodivery"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 Foodivery is a food delivery and takeout app for restaurants. Order food with a quick and easy online ordering service app custom made for restaurants.
 
