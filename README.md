@@ -144,8 +144,8 @@ Podcast app is fully functional in terms of searching for available Podcasts on 
 
 
 
-# [Appetizer](https://github.com/skovalysh/GitHubProfiles)
-<p align="left"> <a href="https://github.com/skovalysh/GitHubProfiles"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+# [Appetizer]()
+<p align="left"> <a href=""> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 A simple appetizer app that lets you add an appetizer item in to the cart built with Swift UI. The main focus of the app was to learn how to pass data between different screens using Swift UI.
 
