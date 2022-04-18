@@ -22,12 +22,6 @@ Swift Portfolio
 </p>
 Foodivery is a food delivery and takeout app for restaurants. Order food with a quick and easy online ordering service app custom made for restaurants.
 
-
-* MVP (Model-View-Presenter) architecture
-* Realm database
-* Fully programmatically UI 
-* Firebase backend
-
 <p align="center">
 <img src="https://github.com/ammarali16/Swift/blob/main/images/Apple%20iPhone%2011%20Pro%20Max%20Presentation%20(2).png" width="930" title="PUMBOnline">
 
